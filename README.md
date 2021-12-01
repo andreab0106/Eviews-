@@ -1,2 +1,2 @@
 # Eviews-
-Codes to new Economics. An opportunity to learn. 
+Codes to new economists. An opportunity to learn. 
